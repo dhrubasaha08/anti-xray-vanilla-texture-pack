@@ -1,11 +1,7 @@
 #asset library
 assets/
 
-#compliled packs
-*.zip
-
-#packages icon
+#misc
 *.png
-
-#.mcmeta
+*.zip
 *.mcmeta
