@@ -1,0 +1,6 @@
+#ignore asset library
+
+assets/
+
+#ignore compliled packs
+*.zip
